@@ -10,4 +10,4 @@ Technology Used:
 - JAVASCRIPT
 
 
-Live Demo: [Link]()
+Live Demo: [Link](https://word-countt-app.netlify.app/)
